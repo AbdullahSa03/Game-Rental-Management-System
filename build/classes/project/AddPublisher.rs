@@ -1,0 +1,12 @@
+project.AddPublisher$2
+project.AddPublisher$3
+project.AddPublisher$1
+AddPublisher
+jdbcgui.AddPublisher
+jdbcgui.AddPublisher$3
+AddPublisher$3
+jdbcgui.AddPublisher$1
+jdbcgui.AddPublisher$2
+AddPublisher$1
+AddPublisher$2
+project.AddPublisher

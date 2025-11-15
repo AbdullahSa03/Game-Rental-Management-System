@@ -1,0 +1,2 @@
+jdbcgui.myDBCon
+project.myDBCon
